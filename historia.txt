@@ -2,4 +2,8 @@ Erase una vez Erase una vez Erase una vez Erase una vez Erase una vez Erase una 
 
 Se a muerto el torrao
 
+<<<<<<< HEAD
 Revivió el torrao
+=======
+Que se ha muerto quien?
+>>>>>>> final-b
